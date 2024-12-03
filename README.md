@@ -1,4 +1,4 @@
-# bruteForceAttack
+# bruteForceAttack Using Python Selenium
 Automated Login Script Using Selenium
 
 This Python script automates the process of logging into the Sauce Demo website using credentials from a text file. The script leverages Selenium WebDriver to simulate user actions such as entering a username and password, and submitting the login form.
