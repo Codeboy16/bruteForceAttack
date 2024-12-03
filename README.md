@@ -9,7 +9,7 @@ Automates browser interaction: Uses Selenium WebDriver with Microsoft Edge to pe
 Error Handling: Includes basic error handling to ensure the script continues running even if an error occurs during login.
 
 # Requirements:
-Python 3.x \n
+Python 3.x '\n'
 Selenium \n
 Microsoft Edge WebDriver
 
